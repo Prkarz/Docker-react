@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          HI there! Nigga Volume Works.
+          HI there! Gam gam style Works.
         </a>
       </header>
     </div>
